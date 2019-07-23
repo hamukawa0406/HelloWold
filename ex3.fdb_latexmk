@@ -1,0 +1,21 @@
+# Fdb version 3
+["dvipdf"] 1541681937 "ex3.dvi" "ex3.pdf" "ex3" 1541684598
+  "ex3.dvi" 1541681936 1016 ac9fddb4b0f4867a610b6f2683b8a2ca "latex"
+  (generated)
+  "ex3.pdf"
+["latex"] 1541681936 "ex3.tex" "ex3.dvi" "ex3" 1541684598
+  "/etc/texmf/web2c/texmf.cnf" 1541601303 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/ptex/jis/jis.tfm" 1274206740 468 53f854284f6afa6c36aaa2d1090ecc12 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/ptex/standard/tmin10.tfm" 1274206740 856 39c171483fe1bb7d0e1368980c0c205b ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1400831602 55132 1568ea7ebb5ed2b2ea63f45c633eadda ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/var/lib/texmf/web2c/eptex/platex.fmt" 1541601536 4007264 e66b1b836e49541d675202c630ee8222 ""
+  "ex3.aux" 1541681936 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ex3.tex" 1541665690 260 6bd12cd8ceb5018b816b32ebde8528ae ""
+  (generated)
+  "ex3.log"
+  "ex3.dvi"
+  "ex3.aux"
